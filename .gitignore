@@ -1,0 +1,5 @@
+node_modules
+.idea
+.vscodes
+.DS_Store
+dist/
